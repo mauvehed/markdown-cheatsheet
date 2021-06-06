@@ -1,7 +1,9 @@
+Additional Official Info: https://guides.github.com/features/mastering-markdown/
+
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
-- - - - 
+- - - -
 # Heading 1 #
 
     Markup :  # Heading 1 #
@@ -52,7 +54,7 @@ ___Strong emphasized text___
     Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
 [heading-1](#heading-1 "Goto heading-1")
-    
+
     Markup: [heading-1](#heading-1 "Goto heading-1")
 
 Table, like this one :
@@ -80,7 +82,7 @@ Content Cell  | \|
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
-Content Cell  |  \| 
+Content Cell  |  \|
 ```
 
 Left, right and center aligned table
@@ -102,7 +104,7 @@ Content Cell  | Content Cell | Content Cell
     Markup :  `code()`
 
 ```javascript
-    var specificLanguage_code = 
+    var specificLanguage_code =
     {
         "data": {
             "lookedUpPlatform": 1,
@@ -137,7 +139,7 @@ Content Cell  | Content Cell | Content Cell
  Markup : - Bullet list
               - Nested bullet
                   - Sub-nested bullet etc
-          - Bullet list item 2 
+          - Bullet list item 2
 ~~~
 
 1. A numbered list
@@ -209,9 +211,9 @@ Foldable text:
 Link to a specific part of the page:
 
 [Go To TOP](#TOP)
-   
+
     Markup : [text goes here](#section_name)
-              section_title<a name="section_name"></a>    
+              section_title<a name="section_name"></a>
 
 Hotkey:
 
